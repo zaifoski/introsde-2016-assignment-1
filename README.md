@@ -21,6 +21,6 @@ ant execute.evaluation
     executes the samples as required by the assignment  
   
 ant compile  
-ant execute.<class_name>  
-    executes only the class <class_name> with the sample inputs required by the assignment  
+ant execute.class_name  
+    executes only the class class_name with the sample inputs required by the assignment  
 
